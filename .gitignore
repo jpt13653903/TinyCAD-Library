@@ -1,0 +1,6 @@
+*.swp
+.vs
+.vscode
+
+*.ldb
+
